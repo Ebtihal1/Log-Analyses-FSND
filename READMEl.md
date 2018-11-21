@@ -1,7 +1,5 @@
 # Udacity | Full Stack Web Developer | Project 1 : Log Analysis
 Created by: Ebtihal Abduallah
-![GitHub Logo](/images/logo.png)
-<img src= "imagesjkkujuhjhuj" width="100 >"
 
  # Introduction:
 The goal is building an internal reporting tool that will use information from the database to discover what kind of articles the site's readers like.
